@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScannerLite</string>
+    <string name="btn_scan">Scan</string>
+    <string name="title_scan">Barcode/QR Code</string>
+    <string name="bottom_hint">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="button_ok">OK</string>
+</resources>
